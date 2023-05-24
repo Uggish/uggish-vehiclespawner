@@ -10,12 +10,18 @@ This script is a script on which a vehicle is spawned, only one vehicle is spawn
 -- You can easily turn off the blip/blips not to be visible by setting "Config.showBlips" to false.
 
 1.2
-*You can easily change IF you want km/h or MPH.*
+You can easily change IF you want km/h or MPH.
 
 1.3
-*Added the option to choose whether the vehicle should be locked or not. You can easily change it in the config.lua file.*
+Added the option to choose whether the vehicle should be locked or not. You can easily change it in the config.lua file.
+
+1.4
+Fixed a bug that caused the vehicles to spawn on top of each other in some cases.
 
 Discord.
+
 https://discord.gg/uggishresources
+
 Website.
-https://uggishstore.tebex.io/
+
+https://uggish-store.tebex.io/
