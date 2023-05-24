@@ -18,10 +18,10 @@ Added the option to choose whether the vehicle should be locked or not. You can 
 1.4
 Fixed a bug that caused the vehicles to spawn on top of each other in some cases.
 
-Discord.
+Discord:
 
 https://discord.gg/uggishresources
 
-Website.
+Website:
 
 https://uggish-store.tebex.io/
