@@ -9,9 +9,10 @@ This script is a script on which a vehicle is spawned, only one vehicle is spawn
 -- You can easily add more Blips with any name, blip model, color!
 -- You can easily turn off the blip/blips not to be visible by setting "Config.showBlips" to false.
 
-*1.2**
+1.2
 *You can easily change IF you want km/h or MPH.*
-**1.3**
+
+1.3
 *Added the option to choose whether the vehicle should be locked or not. You can easily change it in the config.lua file.*
 
 Discord.
